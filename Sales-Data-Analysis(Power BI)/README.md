@@ -36,10 +36,6 @@ Data Modeling: Implemented a Star Schema (Fact and Dimension tables) to optimize
 
 DAX (Data Analysis Expressions): \* Measures: Created calculated measures for Total Sales, Net Sales, Total Orders, and Average Discount.
 
-Time Intelligence: Developed DAX logic for period-over-period comparisons and YTD tracking.
-
-Ranking: Used RANKX and TOPN functions for the Top/Bottom 5 product analysis.
-
 ## 📈 Dashboard Features
 
 Interactive Slicers: Users can filter the entire report by Date, City, or Category.
