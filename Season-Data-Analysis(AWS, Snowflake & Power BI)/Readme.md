@@ -1,6 +1,7 @@
 # Seasonal Data Analysis: Rainfall, Temperature, & Crop Yield
 
 🌦️ Project Overview
+
 This project provides a comprehensive analysis of seasonal weather patterns (Rainfall, Temperature, Humidity) and their direct impact on agricultural yields. The goal was to build a scalable data pipeline that moves raw environmental data from cloud storage into a data warehouse for advanced analytical reporting.
 
 🏗️ Tech Stack
@@ -31,10 +32,13 @@ Correlation Analysis: Investigated the relationship between humidity levels and 
 Seasonal Trends: Identified averages (rainfall, temperature, yield) and their historical impact on seasonal harvesting.
 
 📂 Repository Structure
-Plaintext
-├── data/  
+
+├── data/
+
 ├── snowflake_scripts/Seasondata
-├── powerbi/Report  
+
+├── powerbi/Report
+
 └── README.md
 
 🚀 How to Replicate
@@ -51,7 +55,7 @@ Open the .pbix file.
 Update the Data Source settings to point to your Snowflake Account and Warehouse.
 
 📸 Dashboard Preview
-![Executive Dashboard](Rainfall_Analysis.png)
+(Rainfall_Analysis.png)
 ![Executive Dashboard](Humidity_Analysis.png)
 ![Executive Dashboard](Temp_Analysis.png)
 ![Executive Dashboard](Yield_Analysis.png)
