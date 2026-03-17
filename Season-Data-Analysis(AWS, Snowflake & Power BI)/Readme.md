@@ -53,3 +53,10 @@ Power BI:
 Open the .pbix file.
 
 Update the Data Source settings to point to your Snowflake Account and Warehouse.
+
+📸 Dashboard Preview
+
+![Power BI Dashboard](images/Rainfall_Analysis.png)
+![Power BI Dashboard](images/Humidity_Analysis.png)
+![Power BI Dashboard](images/Temp_Analysis.png)
+![Power BI Dashboard](images/Yield_Analysis.png)
